@@ -34,7 +34,7 @@ Este projeto é uma API de conversão de moedas construída com FastAPI. Ela con
 1. **Clone o repositório:**
 
    ```bash
-   https://github.com/esscova/api-currency-converter.git
+   git clone https://github.com/esscova/api-currency-converter.git
    cd api-currency-converter
    ```
 
